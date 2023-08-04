@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @apollomlambo
 - 👀 I’m interested in Software Development 
 - 🌱 I’m currently learning Agile project management 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Full stack software development
 - 📫 How to reach me ...
 
 <!---
