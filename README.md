@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Apollo Mlambo
-- 👀 I’m interested in Software Development fields_of_interests: Web Development, Data Science,Machine Learning,UI/UX,Game Development,DevOps
+- 👀 I’m interested in Software Development
+- My fields of interests: Web Development, Data Science,Machine Learning,UI/UX,Game Development,DevOps
   
 
 -  Full-stack developer passionate about creating scalable and user-friendly software solutions. 
