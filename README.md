@@ -8,7 +8,7 @@ I work embedded with client teams to take ambiguous business problems to product
 
 ## 🔭 What I'm working on
 
-- **Delivery Manager Assistant (UK telecoms operator):** a coordinator agent with specialist sub-agents that watch delivery milestones and draft supplier chases. Gemini on Vertex AI with a switchable Claude provider, an MCP and AI gateway layer on GKE, read-only BigQuery access, and human approval before anything is sent.
+- **Operater Assistant (UK telecoms operator):** a coordinator agent with specialist sub-agents that watch delivery milestones and draft supplier chases. Gemini on Vertex AI with a switchable Claude provider, an MCP and AI gateway layer on GKE, read-only BigQuery access, and human approval before anything is sent.
 - **People Capability Agent (global advisory firm):** a Workday-first agent that assesses skills and roles, enriched with external skills data.
 - **Multi-Tenant Consulting Operations Platform:** Next.js, tRPC and Azure PostgreSQL with Entra ID and RBAC across seven companies, Claude-powered candidate screening, and Xero and HubSpot integrations.
 - **AI Voice Agent:** a phone agent on ElevenLabs and OpenRouter for outbound and inbound calls.
