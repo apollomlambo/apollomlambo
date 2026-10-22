@@ -60,7 +60,7 @@ I work embedded with client teams to take ambiguous business problems to product
 
 ## 📜 Certifications
 
-- Claude Certified Architect, Foundations (in progress)
+- Claude Certified Architect, Foundations
 - Microsoft Azure AI Engineer
 - Microsoft Azure Cloud Fundamentals
 - AWS Cloud Practitioner
